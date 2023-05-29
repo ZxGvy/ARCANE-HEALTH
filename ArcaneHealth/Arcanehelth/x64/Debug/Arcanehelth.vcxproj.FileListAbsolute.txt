@@ -1,0 +1,15 @@
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.vcxproj.AssemblyReference.cache
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.halaman_obat.resources
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.login.resources
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.menu_utama.resources
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.vcxproj.GenerateResource.cache
+C:\Users\mfami\source\repos\Arcanehelth\Arcanehelth\x64\Debug\Arcanehelth.FormBiodata.resources
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.FormBiodata.resources
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.halaman_obat.resources
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.login.resources
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.menu_utama.resources
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.vcxproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ArcaneHealth\Arcanehelth\x64\Debug\Arcanehelth.DaftarObat.resources

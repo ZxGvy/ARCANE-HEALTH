@@ -1,0 +1,8 @@
+﻿  DaftarObat.cpp
+  FormBiodata.cpp
+  halaman_obat.cpp
+  login.cpp
+  menu_utama.cpp
+  Generating Code...
+  DaftarObat.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Arcanehelth.vcxproj -> C:\Users\ASUS\Source\Repos\ArcaneHealth\x64\Debug\Arcanehelth.exe
